@@ -1,0 +1,41 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Orbiting Carbon Observatory 3 (OCO-3) Snapshot Area Map (SAM) Tool 
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Brian
+    family-names: Knosp
+    email: Brian.Knosp@jpl.nasa.gov
+    affiliation: Jet Propulsion Laboratory
+    orcid: 'https://orcid.org/0000-0002-2266-8883'
+  - given-names: Abhishek
+    family-names: Chatterjee
+    email: achatterjee@schmidtsciences.org
+    affiliation: Schmidt Sciences    
+  - given-names: Annmarie
+    family-names: Eldering
+    email: annmarie.eldering@nist.gov
+    affiliation: National Institute of Standards and Technology
+    orcid: 'https://orcid.org/0000-0003-1080-9922'       
+  - given-names: Robert
+    family-names: Nelson
+    email: Robert.R.Nelson@jpl.nasa.gov
+    affiliation: Jet Propulsion Laboratory
+    orcid: 'https://orcid.org/0000-0002-3471-5683'  
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.18485822
+    description: DOI of v2.0 of the software
+repository-code: 'https://github.com/NASA-OCO/oco3-sams'
+abstract: "This is for the SAMs website that was developed for NASA's OCO-3 mission.  It allows users to (1) search OCO-3's targets for snapshot area maps, (2) save their favorite sites for email updates, (3) request subsets of SAM data, and (4) request SAM and target observations."
+keywords:
+  - OCO-3
+  - Orbiting Carbon Observatory 3
+license: Apache-2.0
+version: v2.0
+date-released: '2026-02-2026'
